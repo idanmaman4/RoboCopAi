@@ -1,0 +1,8087 @@
+[
+	{
+		"id": 386,
+		"pid": 4612,
+		"name": "0\\powershell.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 436,
+		"pid": 4612,
+		"name": "0\\powershell.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 485,
+		"pid": 4612,
+		"name": "0\\powershell.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 510,
+		"pid": 4612,
+		"name": "0\\powershell.exe",
+		"score": -0.03133734863480009,
+		"syscalls": [
+			"NtCreateFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 648,
+		"pid": 4612,
+		"name": "0\\powershell.exe",
+		"score": -0.012922018076849118,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryVolumeInformationFile",
+			"NtCreateSection",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 888,
+		"pid": 4612,
+		"name": "0\\powershell.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 897,
+		"pid": 4612,
+		"name": "0\\powershell.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 898,
+		"pid": 4612,
+		"name": "0\\powershell.exe",
+		"score": -0.03158365622705517,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtFsControlFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 900,
+		"pid": 4612,
+		"name": "0\\powershell.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 1039,
+		"pid": 4612,
+		"name": "0\\powershell.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 1045,
+		"pid": 4612,
+		"name": "0\\powershell.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 1046,
+		"pid": 4612,
+		"name": "0\\powershell.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 1049,
+		"pid": 4612,
+		"name": "0\\powershell.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 1250,
+		"pid": 1744,
+		"name": "0\\powershell.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 2372,
+		"pid": 2480,
+		"name": "g\\Desktop\\m3.exe",
+		"score": -0.029725137376823696,
+		"syscalls": [
+			"NtCreateFile",
+			"NtDeviceIoControlFile",
+			"NtQueryInformationFile",
+			"NtFsControlFile",
+			"NtClose"
+		]
+	},
+	{
+		"id": 3369,
+		"pid": 7740,
+		"name": "System32\\cmd.exe",
+		"score": -0.03133734863480009,
+		"syscalls": [
+			"NtCreateFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 3381,
+		"pid": 7740,
+		"name": "System32\\cmd.exe",
+		"score": -0.03133734863480009,
+		"syscalls": [
+			"NtCreateFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 3385,
+		"pid": 7740,
+		"name": "System32\\cmd.exe",
+		"score": -0.03133734863480009,
+		"syscalls": [
+			"NtCreateFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 3408,
+		"pid": 7740,
+		"name": "System32\\cmd.exe",
+		"score": -0.03133734863480009,
+		"syscalls": [
+			"NtCreateFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 3420,
+		"pid": 7740,
+		"name": "System32\\cmd.exe",
+		"score": -0.03133734863480009,
+		"syscalls": [
+			"NtCreateFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 5533,
+		"pid": 2616,
+		"name": "m32\\rundll32.exe",
+		"score": -0.02780998502752674,
+		"syscalls": [
+			"NtAlpcSendWaitReceivePort",
+			"NtCallbackReturn",
+			"NtDuplicateObject",
+			"NtAllocateVirtualMemory"
+		]
+	},
+	{
+		"id": 5741,
+		"pid": 7720,
+		"name": "eteDllLoader.exe",
+		"score": -0.0023560693423052004,
+		"syscalls": [
+			"NtThawTransactions",
+			"NtQueryValueKey",
+			"NtCreateEvent",
+			"NtOpenKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 5865,
+		"pid": 7720,
+		"name": "eteDllLoader.exe",
+		"score": -0.01539505901633842,
+		"syscalls": [
+			"NtOpenSection",
+			"NtMapViewOfSection",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtClose"
+		]
+	},
+	{
+		"id": 5867,
+		"pid": 7720,
+		"name": "eteDllLoader.exe",
+		"score": -0.003344344225883311,
+		"syscalls": [
+			"NtCreateIoCompletion",
+			"NtOpenSection",
+			"NtAssociateWaitCompletionPacket",
+			"NtMapViewOfSection",
+			"NtCreateWorkerFactory",
+			"NtClose"
+		]
+	},
+	{
+		"id": 6666,
+		"pid": 7720,
+		"name": "eteDllLoader.exe",
+		"score": -0.028963112016505255,
+		"syscalls": [
+			"NtAllocateVirtualMemory",
+			"NtQueueApcThreadEx",
+			"NtOpenSemaphore",
+			"NtClose",
+			"NtReleaseSemaphore"
+		]
+	},
+	{
+		"id": 7633,
+		"pid": 6364,
+		"name": "tionVerifier.exe",
+		"score": -0.03588731588255295,
+		"syscalls": [
+			"NtAlpcCreatePortSection",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcDeletePortSection",
+			"NtAlpcQueryInformation",
+			"NtAlpcCreateSectionView",
+			"NtAlpcDeleteSectionView",
+			"NtClose",
+			"NtAlpcConnectPort"
+		]
+	},
+	{
+		"id": 8690,
+		"pid": 444,
+		"name": "em32\\conhost.exe",
+		"score": -0.03185671370258775,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtOpenEvent",
+			"NtAllocateVirtualMemory",
+			"NtDuplicateObject",
+			"NtWaitForKeyedEvent",
+			"NtCallbackReturn"
+		]
+	},
+	{
+		"id": 9227,
+		"pid": 7720,
+		"name": "em32\\conhost.exe",
+		"score": -0.020162489704053266,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtOpenEvent",
+			"NtAllocateVirtualMemory",
+			"NtQueryInformationProcess",
+			"NtDuplicateObject",
+			"NtWaitForKeyedEvent",
+			"NtCallbackReturn"
+		]
+	},
+	{
+		"id": 10103,
+		"pid": 1400,
+		"name": "32\\taskhostw.exe",
+		"score": -0.07393800865284961,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 10514,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 10516,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 10522,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 10523,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 10531,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 10532,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.0036155443481746263,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtQueryEaFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 10538,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 10539,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 10548,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 10549,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 10554,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 10555,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 10564,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 10565,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 10575,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 10576,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 10586,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 10587,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 10597,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 10598,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 10603,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 10604,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 10615,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 10616,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 10625,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 10626,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 11698,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.00668289301570868,
+		"syscalls": [
+			"NtCreateFile",
+			"NtCreateSection",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 11983,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.00668289301570868,
+		"syscalls": [
+			"NtCreateFile",
+			"NtCreateSection",
+			"NtQueryInformationFile",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 12010,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtFlushBuffersFileEx",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 13490,
+		"pid": 1400,
+		"name": "32\\taskhostw.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 14604,
+		"pid": 2216,
+		"name": "2\\sdiagnhost.exe",
+		"score": -0.03133734863480009,
+		"syscalls": [
+			"NtCreateFile",
+			"NtCreateSection",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 14695,
+		"pid": 1672,
+		"name": "32\\taskhostw.exe",
+		"score": -0.0619691003320868,
+		"syscalls": [
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose",
+			"NtAlpcConnectPort"
+		]
+	},
+	{
+		"id": 15663,
+		"pid": 2216,
+		"name": "2\\sdiagnhost.exe",
+		"score": -0.003007643384507319,
+		"syscalls": [
+			"NtCreateFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 15933,
+		"pid": 2428,
+		"name": "em32\\conhost.exe",
+		"score": -0.020162489704053266,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtOpenEvent",
+			"NtAllocateVirtualMemory",
+			"NtQueryInformationProcess",
+			"NtDuplicateObject",
+			"NtWaitForKeyedEvent",
+			"NtCallbackReturn"
+		]
+	},
+	{
+		"id": 17838,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.030552559344967922,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryVolumeInformationFile",
+			"NtQueryInformationFile",
+			"NtSetQuotaInformationFile",
+			"NtFsControlFile",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 17873,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.030552559344967922,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryVolumeInformationFile",
+			"NtQueryInformationFile",
+			"NtSetQuotaInformationFile",
+			"NtFsControlFile",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 18120,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.00668289301570868,
+		"syscalls": [
+			"NtCreateFile",
+			"NtCreateSection",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 18800,
+		"pid": 2216,
+		"name": "2\\sdiagnhost.exe",
+		"score": -0.03399439934798476,
+		"syscalls": [
+			"NtCreateFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 18828,
+		"pid": 2216,
+		"name": "2\\sdiagnhost.exe",
+		"score": -0.03399439934798476,
+		"syscalls": [
+			"NtCreateFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 19268,
+		"pid": 2216,
+		"name": "2\\sdiagnhost.exe",
+		"score": -0.03133734863480009,
+		"syscalls": [
+			"NtCreateFile",
+			"NtCreateSection",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 19518,
+		"pid": 2216,
+		"name": "2\\sdiagnhost.exe",
+		"score": -0.029725137376823696,
+		"syscalls": [
+			"NtCreateFile",
+			"NtDeviceIoControlFile",
+			"NtQueryInformationFile",
+			"NtFsControlFile",
+			"NtClose"
+		]
+	},
+	{
+		"id": 19554,
+		"pid": 2216,
+		"name": "2\\sdiagnhost.exe",
+		"score": -0.03133734863480009,
+		"syscalls": [
+			"NtCreateFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 19858,
+		"pid": 2216,
+		"name": "2\\sdiagnhost.exe",
+		"score": -0.03133734863480009,
+		"syscalls": [
+			"NtCreateFile",
+			"NtCreateSection",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 19901,
+		"pid": 2216,
+		"name": "2\\sdiagnhost.exe",
+		"score": -0.029725137376823696,
+		"syscalls": [
+			"NtCreateFile",
+			"NtDeviceIoControlFile",
+			"NtQueryInformationFile",
+			"NtFsControlFile",
+			"NtClose"
+		]
+	},
+	{
+		"id": 19909,
+		"pid": 2216,
+		"name": "2\\sdiagnhost.exe",
+		"score": -0.03133734863480009,
+		"syscalls": [
+			"NtCreateFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 20041,
+		"pid": 7868,
+		"name": "m32\\dmclient.exe",
+		"score": -0.0619691003320868,
+		"syscalls": [
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose",
+			"NtAlpcConnectPort"
+		]
+	},
+	{
+		"id": 20664,
+		"pid": 2216,
+		"name": "2\\sdiagnhost.exe",
+		"score": -0.024031624885278546,
+		"syscalls": [
+			"NtQueryValueKey",
+			"NtQueryInformationToken",
+			"NtDeviceIoControlFile",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 22017,
+		"pid": 1400,
+		"name": "32\\taskhostw.exe",
+		"score": -0.07393800865284961,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 22335,
+		"pid": 1344,
+		"name": "em32\\conhost.exe",
+		"score": -0.020162489704053266,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtOpenEvent",
+			"NtAllocateVirtualMemory",
+			"NtQueryInformationProcess",
+			"NtDuplicateObject",
+			"NtWaitForKeyedEvent",
+			"NtCallbackReturn"
+		]
+	},
+	{
+		"id": 22886,
+		"pid": 7684,
+		"name": "em32\\conhost.exe",
+		"score": -0.005542811877810583,
+		"syscalls": [
+			"NtAlpcSendWaitReceivePort",
+			"NtWaitForSingleObject",
+			"NtProtectVirtualMemory",
+			"NtAllocateVirtualMemory",
+			"NtQueryInformationProcess",
+			"NtDuplicateObject",
+			"NtClose",
+			"NtCallbackReturn"
+		]
+	},
+	{
+		"id": 23166,
+		"pid": 2216,
+		"name": "2\\sdiagnhost.exe",
+		"score": -0.024031624885278546,
+		"syscalls": [
+			"NtQueryValueKey",
+			"NtQueryInformationToken",
+			"NtDeviceIoControlFile",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 24173,
+		"pid": 2216,
+		"name": "2\\sdiagnhost.exe",
+		"score": -0.03133734863480009,
+		"syscalls": [
+			"NtCreateFile",
+			"NtCreateSection",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 24236,
+		"pid": 2216,
+		"name": "2\\sdiagnhost.exe",
+		"score": -0.029725137376823696,
+		"syscalls": [
+			"NtCreateFile",
+			"NtDeviceIoControlFile",
+			"NtQueryInformationFile",
+			"NtFsControlFile",
+			"NtClose"
+		]
+	},
+	{
+		"id": 24244,
+		"pid": 2216,
+		"name": "2\\sdiagnhost.exe",
+		"score": -0.03133734863480009,
+		"syscalls": [
+			"NtCreateFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 24326,
+		"pid": 2924,
+		"name": "32\\taskhostw.exe",
+		"score": -0.007805274370491722,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtOpenKeyEx",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 24379,
+		"pid": 2216,
+		"name": "2\\sdiagnhost.exe",
+		"score": -0.03133734863480009,
+		"syscalls": [
+			"NtCreateFile",
+			"NtCreateSection",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 24434,
+		"pid": 2216,
+		"name": "2\\sdiagnhost.exe",
+		"score": -0.029725137376823696,
+		"syscalls": [
+			"NtCreateFile",
+			"NtDeviceIoControlFile",
+			"NtQueryInformationFile",
+			"NtFsControlFile",
+			"NtClose"
+		]
+	},
+	{
+		"id": 24440,
+		"pid": 2216,
+		"name": "2\\sdiagnhost.exe",
+		"score": -0.03133734863480009,
+		"syscalls": [
+			"NtCreateFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 24687,
+		"pid": 7384,
+		"name": "32\\taskhostw.exe",
+		"score": -0.07393800865284961,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 24712,
+		"pid": 2216,
+		"name": "2\\sdiagnhost.exe",
+		"score": -0.009941329373979957,
+		"syscalls": [
+			"NtCreateNamedPipeFile",
+			"NtFsControlFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 24781,
+		"pid": 1400,
+		"name": "32\\taskhostw.exe",
+		"score": -0.02756051954039418,
+		"syscalls": [
+			"NtOpenFile",
+			"NtCreateSection",
+			"NtQueryInformationToken",
+			"NtDeviceIoControlFile",
+			"NtClose"
+		]
+	},
+	{
+		"id": 25799,
+		"pid": 1400,
+		"name": "32\\taskhostw.exe",
+		"score": -0.07393800865284961,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 26235,
+		"pid": 1400,
+		"name": "32\\taskhostw.exe",
+		"score": -0.07393800865284961,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 26426,
+		"pid": 1620,
+		"name": "m32\\rundll32.exe",
+		"score": -0.0619691003320868,
+		"syscalls": [
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose",
+			"NtAlpcConnectPort"
+		]
+	},
+	{
+		"id": 26457,
+		"pid": 1400,
+		"name": "32\\taskhostw.exe",
+		"score": -0.042009375234881574,
+		"syscalls": [
+			"NtCreateSection",
+			"NtQueryInformationToken",
+			"NtDeviceIoControlFile",
+			"NtMapViewOfSection",
+			"NtClose"
+		]
+	},
+	{
+		"id": 26460,
+		"pid": 1400,
+		"name": "32\\taskhostw.exe",
+		"score": -0.02756051954039418,
+		"syscalls": [
+			"NtOpenFile",
+			"NtCreateSection",
+			"NtQueryInformationToken",
+			"NtDeviceIoControlFile",
+			"NtClose"
+		]
+	},
+	{
+		"id": 26766,
+		"pid": 2228,
+		"name": "tem32\\Defrag.exe",
+		"score": -0.07393800865284961,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 27142,
+		"pid": 1400,
+		"name": "32\\taskhostw.exe",
+		"score": -0.02756051954039418,
+		"syscalls": [
+			"NtOpenFile",
+			"NtCreateSection",
+			"NtQueryInformationToken",
+			"NtDeviceIoControlFile",
+			"NtClose"
+		]
+	},
+	{
+		"id": 29283,
+		"pid": 8008,
+		"name": "32\\UsoClient.exe",
+		"score": -0.0619691003320868,
+		"syscalls": [
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose",
+			"NtAlpcConnectPort"
+		]
+	},
+	{
+		"id": 29814,
+		"pid": 1400,
+		"name": "32\\taskhostw.exe",
+		"score": -0.0619691003320868,
+		"syscalls": [
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose",
+			"NtAlpcConnectPort"
+		]
+	},
+	{
+		"id": 29893,
+		"pid": 5960,
+		"name": "tem32\\tzsync.exe",
+		"score": -0.003007643384507319,
+		"syscalls": [
+			"NtCreateFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31117,
+		"pid": 1400,
+		"name": "32\\taskhostw.exe",
+		"score": -0.03774648011178505,
+		"syscalls": [
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcConnectPort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcQueryInformationMessage",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcDisconnectPort",
+			"NtAlpcQueryInformation",
+			"NtClose",
+			"NtAlpcSetInformation"
+		]
+	},
+	{
+		"id": 31348,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31349,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.014029522072394995,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtFsControlFile",
+			"NtCopyFileChunk",
+			"NtQueryEaFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31376,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31377,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.0036155443481746263,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtQueryEaFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31405,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31406,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.0036155443481746263,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtQueryEaFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31450,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31576,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31578,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.0036155443481746263,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtQueryEaFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31617,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31619,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.0036155443481746263,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtQueryEaFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31653,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31678,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.0036155443481746263,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtQueryEaFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31762,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31763,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.0036155443481746263,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtQueryEaFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31777,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31778,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31813,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31815,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31883,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31885,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31934,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31935,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31964,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31965,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31986,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 31987,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32009,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32010,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32035,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32036,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32060,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32061,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32089,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32090,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32104,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32105,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32119,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32120,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32139,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32140,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32154,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32156,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32181,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32185,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32230,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32232,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32262,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32263,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32308,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32310,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32352,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32353,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32502,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32504,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32559,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32560,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32600,
+		"pid": 7244,
+		"name": "m32\\lpremove.exe",
+		"score": -0.0619691003320868,
+		"syscalls": [
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose",
+			"NtAlpcConnectPort"
+		]
+	},
+	{
+		"id": 32605,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32607,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32674,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32675,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32703,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32704,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.00568034354037994,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32758,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32760,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.0036155443481746263,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtQueryEaFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32806,
+		"pid": 3280,
+		"name": "em32\\conhost.exe",
+		"score": -0.018713330051001065,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtOpenEvent",
+			"NtAllocateVirtualMemory",
+			"NtQueryInformationProcess",
+			"NtDuplicateObject",
+			"NtCallbackReturn"
+		]
+	},
+	{
+		"id": 32823,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32824,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.0036155443481746263,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtQueryEaFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32842,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32843,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.0036155443481746263,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtQueryEaFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32855,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32856,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.0036155443481746263,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtQueryEaFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32896,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32897,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.0036155443481746263,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtQueryEaFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32950,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 32951,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.0036155443481746263,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtQueryEaFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 33001,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 33002,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.0036155443481746263,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtQueryEaFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 33116,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 33117,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.0036155443481746263,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtQueryEaFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 33169,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 33170,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.0036155443481746263,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtQueryEaFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 33204,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 33229,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.0036155443481746263,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtQueryEaFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 33310,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 33314,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.0036155443481746263,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtQueryEaFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 33365,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 33367,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.0036155443481746263,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtQueryEaFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 33410,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 33411,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.0036155443481746263,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtQueryEaFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 33440,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 33442,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.0036155443481746263,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtQueryEaFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 33478,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 33479,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.0036155443481746263,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtQueryEaFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 33543,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 33545,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.0036155443481746263,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtQueryEaFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 33594,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 33595,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.0036155443481746263,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtQueryEaFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 33624,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.008856219305821034,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 33625,
+		"pid": 7276,
+		"name": "m32\\cleanmgr.exe",
+		"score": -0.0036155443481746263,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtCopyFileChunk",
+			"NtQueryEaFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 39773,
+		"pid": 5960,
+		"name": "tem32\\tzsync.exe",
+		"score": -0.003007643384507319,
+		"syscalls": [
+			"NtCreateFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 39775,
+		"pid": 5960,
+		"name": "tem32\\tzsync.exe",
+		"score": -0.003007643384507319,
+		"syscalls": [
+			"NtCreateFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 40068,
+		"pid": 7956,
+		"name": "em32\\conhost.exe",
+		"score": -0.018713330051001065,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtOpenEvent",
+			"NtAllocateVirtualMemory",
+			"NtQueryInformationProcess",
+			"NtDuplicateObject",
+			"NtCallbackReturn"
+		]
+	},
+	{
+		"id": 46581,
+		"pid": 5028,
+		"name": "em32\\conhost.exe",
+		"score": -0.005542811877810583,
+		"syscalls": [
+			"NtAlpcSendWaitReceivePort",
+			"NtWaitForSingleObject",
+			"NtProtectVirtualMemory",
+			"NtAllocateVirtualMemory",
+			"NtQueryInformationProcess",
+			"NtDuplicateObject",
+			"NtClose",
+			"NtCallbackReturn"
+		]
+	},
+	{
+		"id": 48168,
+		"pid": 3424,
+		"name": "g\\Everything.exe",
+		"score": -0.08468084834984901,
+		"syscalls": [
+			"NtCreateFile",
+			"NtReadFile",
+			"NtDeviceIoControlFile",
+			"NtFsControlFile",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 48237,
+		"pid": 3424,
+		"name": "g\\Everything.exe",
+		"score": -0.08468084834984901,
+		"syscalls": [
+			"NtCreateFile",
+			"NtReadFile",
+			"NtDeviceIoControlFile",
+			"NtFsControlFile",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 48338,
+		"pid": 5256,
+		"name": "stemInformer.exe",
+		"score": -0.02426112927818358,
+		"syscalls": [
+			"NtCreateFile",
+			"NtThawTransactions",
+			"NtCreateSection",
+			"NtQueryInformationFile",
+			"NtClose"
+		]
+	},
+	{
+		"id": 48348,
+		"pid": 5256,
+		"name": "stemInformer.exe",
+		"score": -0.010151025690064874,
+		"syscalls": [
+			"NtCreateFile",
+			"NtCreateSection",
+			"NtQueryInformationFile",
+			"NtOpenProcess",
+			"NtClose"
+		]
+	},
+	{
+		"id": 48387,
+		"pid": 5256,
+		"name": "stemInformer.exe",
+		"score": -0.0006776566995715383,
+		"syscalls": [
+			"NtCreateFile",
+			"NtCreateSection",
+			"NtQueryInformationFile",
+			"NtMapViewOfSection",
+			"NtClose"
+		]
+	},
+	{
+		"id": 53624,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 53689,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 53715,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 53717,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 53744,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 53746,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 53773,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 53775,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 53802,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 53804,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 53831,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 53833,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 53866,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 53892,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 53894,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 53923,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 53950,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 53952,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 53981,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 54008,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 54010,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 54037,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 54039,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 54066,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 54068,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 54095,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 54097,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 54124,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 54126,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 54152,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 54154,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 54180,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 54182,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 54209,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 54211,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 54238,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 54240,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 54267,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 54269,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 54296,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 54298,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 54325,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 54327,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 54354,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 54356,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 54383,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 54385,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 54412,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 54414,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 54441,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 54443,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 54470,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 54472,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 54499,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 54501,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 56248,
+		"pid": 6488,
+		"name": "dstokenclean.exe",
+		"score": -0.006310524735782752,
+		"syscalls": [
+			"NtOpenSection",
+			"NtWorkerFactoryWorkerReady",
+			"NtMapViewOfSection",
+			"NtSetInformationVirtualMemory",
+			"NtWaitForKeyedEvent",
+			"NtReleaseKeyedEvent",
+			"NtCreateWorkerFactory",
+			"NtClose"
+		]
+	},
+	{
+		"id": 56259,
+		"pid": 6488,
+		"name": "dstokenclean.exe",
+		"score": -0.01539505901633842,
+		"syscalls": [
+			"NtOpenSection",
+			"NtMapViewOfSection",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtClose"
+		]
+	},
+	{
+		"id": 56419,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 56424,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 56459,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 56461,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 56496,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 56498,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 56534,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 56538,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 56590,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 56594,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 56623,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 56627,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 56667,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 56711,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 56714,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 56764,
+		"pid": 6488,
+		"name": "stemInformer.exe",
+		"score": -0.0006776566995715383,
+		"syscalls": [
+			"NtCreateFile",
+			"NtCreateSection",
+			"NtQueryInformationFile",
+			"NtMapViewOfSection",
+			"NtClose"
+		]
+	},
+	{
+		"id": 56817,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 56822,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 56899,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 56911,
+		"pid": 6488,
+		"name": "stemInformer.exe",
+		"score": -0.02426112927818358,
+		"syscalls": [
+			"NtCreateFile",
+			"NtThawTransactions",
+			"NtCreateSection",
+			"NtQueryInformationFile",
+			"NtClose"
+		]
+	},
+	{
+		"id": 56929,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 56974,
+		"pid": 6488,
+		"name": "stemInformer.exe",
+		"score": -0.014801402859578983,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtCreateFile",
+			"NtCreateSection",
+			"NtQueryInformationFile",
+			"NtQueryObject",
+			"NtClose"
+		]
+	},
+	{
+		"id": 56992,
+		"pid": 6488,
+		"name": "stemInformer.exe",
+		"score": -0.010151025690064874,
+		"syscalls": [
+			"NtCreateFile",
+			"NtCreateSection",
+			"NtQueryInformationFile",
+			"NtOpenProcess",
+			"NtClose"
+		]
+	},
+	{
+		"id": 57038,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 57108,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 57118,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 57182,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 57268,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 57281,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 57348,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 57390,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 57392,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 57423,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 57452,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 57454,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 57482,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 57484,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 57538,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 57635,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 57648,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 57749,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 57767,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 57860,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 57870,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 57967,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 57986,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 58077,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 58094,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 58183,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 58210,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 58359,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 58373,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 58454,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 58469,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 58548,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 58562,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 58650,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 58664,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 58736,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 58750,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 58828,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 58843,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 58928,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 58940,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 59020,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 59033,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 59125,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 59141,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 59236,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 59333,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 59350,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 59444,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 59465,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 59566,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 59582,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 59664,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 59677,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 59704,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 59706,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 59733,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 59735,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 59762,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 59764,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 59790,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 59792,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 59819,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 59821,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 59847,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 59849,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 59875,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 59877,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 59903,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 59905,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 59932,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 59934,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 59960,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 59962,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 59989,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 59991,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 60033,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 60040,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 60074,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 60076,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 60103,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 60105,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 60131,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 60133,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 60160,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 60162,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 60189,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 60191,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 60218,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 60220,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 60247,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 60249,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 60276,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 60278,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 60304,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 60306,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 60332,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 60334,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 60367,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 60369,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 60397,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 60399,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 60448,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 60451,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 60512,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 60517,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 60548,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 60551,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 60584,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 60587,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 60626,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 60628,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 60663,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 60667,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 60743,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 60762,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 60849,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 60865,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 60961,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 60975,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 61059,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 61077,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 61176,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 61205,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 61299,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 61301,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 61335,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 61338,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 61371,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 61374,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 61406,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 61410,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 61443,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 61446,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 62812,
+		"pid": 6488,
+		"name": "stemInformer.exe",
+		"score": -0.0006776566995715383,
+		"syscalls": [
+			"NtCreateFile",
+			"NtCreateSection",
+			"NtQueryInformationFile",
+			"NtMapViewOfSection",
+			"NtClose"
+		]
+	},
+	{
+		"id": 62852,
+		"pid": 6488,
+		"name": "stemInformer.exe",
+		"score": -0.0006776566995715383,
+		"syscalls": [
+			"NtCreateFile",
+			"NtCreateSection",
+			"NtQueryInformationFile",
+			"NtMapViewOfSection",
+			"NtClose"
+		]
+	},
+	{
+		"id": 63155,
+		"pid": 6488,
+		"name": "stemInformer.exe",
+		"score": -0.02756051954039418,
+		"syscalls": [
+			"NtOpenFile",
+			"NtCreateSection",
+			"NtQueryInformationToken",
+			"NtDeviceIoControlFile",
+			"NtClose"
+		]
+	},
+	{
+		"id": 63979,
+		"pid": 6488,
+		"name": "stemInformer.exe",
+		"score": -0.01685858584666844,
+		"syscalls": [
+			"NtQueryInformationToken",
+			"NtDeviceIoControlFile",
+			"NtSetEvent",
+			"NtCreateEvent",
+			"NtClose"
+		]
+	},
+	{
+		"id": 65045,
+		"pid": 6488,
+		"name": "stemInformer.exe",
+		"score": -0.009183867845935834,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtQueryObject",
+			"NtCreateFile",
+			"NtAlpcSendWaitReceivePort"
+		]
+	},
+	{
+		"id": 65050,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 65059,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 65112,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 65115,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 65152,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 65156,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 65188,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 65195,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 65230,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 65267,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 65290,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 65384,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 65401,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 65481,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 65500,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 65509,
+		"pid": 6488,
+		"name": "stemInformer.exe",
+		"score": -0.07393800865284961,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 65546,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 65573,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 65575,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 65611,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 65639,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 65643,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 65699,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 65733,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 65738,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 65785,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 65820,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 65822,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 65859,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 65926,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 65929,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 65961,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 65965,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66001,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 66004,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66035,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 66038,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66068,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 66070,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66100,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 66103,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66139,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 66143,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66175,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 66178,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66211,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66273,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 66276,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66307,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 66312,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66345,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 66349,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66400,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 66411,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66443,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 66448,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66485,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 66489,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66518,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 66522,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66553,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 66555,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66586,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 66590,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66620,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 66624,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66656,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 66661,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66690,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 66692,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66720,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 66723,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66752,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 66755,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66788,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 66790,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66820,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 66827,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66875,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 66878,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66908,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 66911,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66938,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 66943,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 66976,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 66980,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 67011,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 67016,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 67052,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 67055,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 67082,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 67084,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 67112,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 67117,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 67149,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 67153,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 67183,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 67187,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 67219,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 67224,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 67260,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 67272,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 67317,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 67320,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 67349,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 67352,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 67385,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 67387,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 68045,
+		"pid": 6488,
+		"name": "stemInformer.exe",
+		"score": -0.03399439934798476,
+		"syscalls": [
+			"NtCreateFile",
+			"NtCreateSection",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 69021,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 69023,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 69050,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 69052,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 69079,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 69081,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 69107,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 69109,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 69136,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 69138,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 69167,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 69194,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 69196,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 69222,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 69224,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 69251,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 69253,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 69280,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 69282,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 69311,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 69337,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 69339,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 69368,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 69395,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 69397,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 69448,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 69478,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 69480,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 69507,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 69509,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 69537,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 69539,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 69566,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 69568,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 69595,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 69597,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 69623,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 69625,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 69654,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 69681,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 69683,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 69710,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 69712,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 69739,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0022257365004713647,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryKey",
+			"NtSetValueKey",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 69741,
+		"pid": 3612,
+		"name": "esktop\\tesla.exe",
+		"score": -0.0014085350364170246,
+		"syscalls": [
+			"NtCreateFile",
+			"NtLockFile",
+			"NtReadFile",
+			"NtQueryInformationFile",
+			"NtUnloadKeyEx",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	}
+]
