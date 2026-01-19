@@ -7,7 +7,7 @@ from sklearn.preprocessing import StandardScaler
 import json
 from collections import defaultdict,deque
 
-DB_HOST = "10.58.22.32"
+DB_HOST = "10.26.142.31"
 DB_PORT = 3306
 DB_USER = "root"
 DB_PASSWORD = "root"
@@ -110,6 +110,44 @@ def build_pid_and_handle_windows(events):
 
     return windows
 
+def build_pid_and_handle_windows_set_and_weights(events):
+    handle_pid_cache = defaultdict(set)
+    windows = []
+    general_windows = [] 
+    def extract_handles(e):
+        handles = [] 
+        if e["handle_1_val"]:
+            yield e["handle_1_val"]
+        if e["handle_2_val"]:
+            yield e["handle_2_val"]
+            
+    for e in events:
+        e['name'] = convert_syscall_num_to_string(e['syscall_num'])
+        pid = e["pid"]
+        
+        for handle in extract_handles(e):
+            buf = handle_pid_cache[(pid,handle)]
+            if buf or handle > 0x8000000000000000: 
+                buf.add(e)
+        
+        if rh := e["ret_handle"]: 
+            buf = handle_pid_cache[(pid,rh)]
+            buf.add(e)
+            
+        
+        if ch := e["closed_handle"]: 
+            buf = handle_pid_cache[(pid,ch)]
+            if buf or handle > 0x8000000000000000:
+                buf.add(e)
+                windows.append(list(buf))
+                buf.clear()
+
+    for (proc,handle),group_self in handle_pid_cache.items(): 
+        if handle > 0x8000000000000000 and group_self: 
+             windows.append(list(group_self))
+
+    return windows
+
 
 def fetch_events(where_clause: str , limit = None):
     conn = mysql.connector.connect(
@@ -138,7 +176,7 @@ def fetch_events(where_clause: str , limit = None):
         handle_1_access_mode,
         handle_2_access_mode
     FROM {TABLE_NAME}
-    WHERE ({where_clause}) AND (process_name NOT LIKE "%parsec%") AND (process_name NOT LIKE '%svchost%') AND (process_name NOT LIKE "%dwm%") AND pid != 3220 AND pid != 864 AND pid != 3220 AND pid != 5864 AND pid != 844 AND pid != 1048 AND pid != 5244 AND pid != 704 AND pid != 2672 AND pid != 3032
+    WHERE ({where_clause}) AND (process_name NOT LIKE "%parsec%") AND (process_name NOT LIKE "%conhost%") AND (process_name NOT LIKE '%svchost%') AND (process_name NOT LIKE "%dwm%") AND pid != 3220 AND pid != 864 AND pid != 3220 AND pid != 5864 AND pid != 844 AND pid != 1048 AND pid != 5244 AND pid != 704 AND pid != 2672 AND pid != 3032 AND pid != 5720 AND pid != 620 AND pid != 5244  AND pid != 3980 AND pid != 140 AND pid != 4132 AND pid != 696  AND pid != 376 
     ORDER BY ts ASC, id ASC
     {'LIMIT ' + str(limit)  if limit else ''}
     """
