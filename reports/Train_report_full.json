@@ -1,0 +1,539 @@
+[
+	{
+		"id": 83,
+		"pid": 8848,
+		"name": "ftEdgeUpdate.exe",
+		"score": -0.008780560049122199,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtOpenKeyEx",
+			"NtEnumerateValueKey",
+			"NtQueryKey",
+			"NtClose",
+			"NtEnumerateKey"
+		]
+	},
+	{
+		"id": 295,
+		"pid": 8848,
+		"name": "ftEdgeUpdate.exe",
+		"score": -0.008309484197432826,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtCreateSection",
+			"NtOpenKeyEx",
+			"NtMapViewOfSection",
+			"NtClose"
+		]
+	},
+	{
+		"id": 325,
+		"pid": 992,
+		"name": "ation\\chrome.exe",
+		"score": -0.017216359093867428,
+		"syscalls": [
+			"NtOpenFile",
+			"NtQueryVolumeInformationFile",
+			"NtQueryInformationFile",
+			"NtFsControlFile",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 449,
+		"pid": 992,
+		"name": "ation\\chrome.exe",
+		"score": -0.017216359093867428,
+		"syscalls": [
+			"NtOpenFile",
+			"NtQueryVolumeInformationFile",
+			"NtQueryInformationFile",
+			"NtFsControlFile",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 473,
+		"pid": 992,
+		"name": "ation\\chrome.exe",
+		"score": -0.017216359093867428,
+		"syscalls": [
+			"NtOpenFile",
+			"NtQueryVolumeInformationFile",
+			"NtQueryInformationFile",
+			"NtFsControlFile",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 832,
+		"pid": 992,
+		"name": "ation\\chrome.exe",
+		"score": -0.05010624250707163,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 3203,
+		"pid": 7564,
+		"name": "neDriveSetup.exe",
+		"score": -0.018048438085638274,
+		"syscalls": [
+			"NtCreateFile",
+			"NtQueryInformationFile",
+			"NtFsControlFile",
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryVolumeInformationFile"
+		]
+	},
+	{
+		"id": 213,
+		"pid": 7728,
+		"name": "ftEdgeUpdate.exe",
+		"score": -0.05010624250707163,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 264,
+		"pid": 7340,
+		"name": "ystem32\\upfc.exe",
+		"score": -0.030094891776961452,
+		"syscalls": [
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcConnectPort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcDisconnectPort",
+			"NtAlpcQueryInformation",
+			"NtClose",
+			"NtAlpcSetInformation"
+		]
+	},
+	{
+		"id": 273,
+		"pid": 7728,
+		"name": "ftEdgeUpdate.exe",
+		"score": -0.05010624250707163,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 281,
+		"pid": 7728,
+		"name": "ftEdgeUpdate.exe",
+		"score": -0.05010624250707163,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 368,
+		"pid": 7728,
+		"name": "ftEdgeUpdate.exe",
+		"score": -0.05010624250707163,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 375,
+		"pid": 7728,
+		"name": "ftEdgeUpdate.exe",
+		"score": -0.05010624250707163,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 466,
+		"pid": 7728,
+		"name": "ftEdgeUpdate.exe",
+		"score": -0.02476163980295021,
+		"syscalls": [
+			"NtOpenFile",
+			"NtCreateSection",
+			"NtQueryInformationToken",
+			"NtDeviceIoControlFile",
+			"NtClose"
+		]
+	},
+	{
+		"id": 606,
+		"pid": 2960,
+		"name": "\\BraveUpdate.exe",
+		"score": -0.016139886537185233,
+		"syscalls": [
+			"NtCreateFile",
+			"NtReadFile",
+			"NtFsControlFile",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 626,
+		"pid": 7728,
+		"name": "ftEdgeUpdate.exe",
+		"score": -0.02476163980295021,
+		"syscalls": [
+			"NtOpenFile",
+			"NtCreateSection",
+			"NtQueryInformationToken",
+			"NtDeviceIoControlFile",
+			"NtClose"
+		]
+	},
+	{
+		"id": 634,
+		"pid": 2960,
+		"name": "\\BraveUpdate.exe",
+		"score": -0.016139886537185233,
+		"syscalls": [
+			"NtCreateFile",
+			"NtReadFile",
+			"NtFsControlFile",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 645,
+		"pid": 7728,
+		"name": "ftEdgeUpdate.exe",
+		"score": -0.007822619050647961,
+		"syscalls": [
+			"NtSetInformationJobObject",
+			"NtQueryInformationToken",
+			"NtDeviceIoControlFile",
+			"NtOpenKeyEx",
+			"NtClose"
+		]
+	},
+	{
+		"id": 911,
+		"pid": 7728,
+		"name": "ftEdgeUpdate.exe",
+		"score": -0.05010624250707163,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 943,
+		"pid": 7728,
+		"name": "ftEdgeUpdate.exe",
+		"score": -0.039154410040449394,
+		"syscalls": [
+			"NtCreateSection",
+			"NtQueryInformationToken",
+			"NtDeviceIoControlFile",
+			"NtMapViewOfSection",
+			"NtClose"
+		]
+	},
+	{
+		"id": 2382,
+		"pid": 2960,
+		"name": "\\BraveUpdate.exe",
+		"score": -0.016139886537185233,
+		"syscalls": [
+			"NtCreateFile",
+			"NtReadFile",
+			"NtFsControlFile",
+			"NtClose",
+			"NtSetInformationFile"
+		]
+	},
+	{
+		"id": 2487,
+		"pid": 2960,
+		"name": "\\BraveUpdate.exe",
+		"score": -0.05010624250707163,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 2515,
+		"pid": 4532,
+		"name": "32\\SIHClient.exe",
+		"score": -0.039154410040449394,
+		"syscalls": [
+			"NtCreateSection",
+			"NtQueryInformationToken",
+			"NtDeviceIoControlFile",
+			"NtMapViewOfSection",
+			"NtClose"
+		]
+	},
+	{
+		"id": 2643,
+		"pid": 4532,
+		"name": "32\\SIHClient.exe",
+		"score": -0.05010624250707163,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 2661,
+		"pid": 4532,
+		"name": "32\\SIHClient.exe",
+		"score": -0.016091603971203017,
+		"syscalls": [
+			"NtQueryValueKey",
+			"NtQueryInformationToken",
+			"NtDeviceIoControlFile",
+			"NtCreateKey",
+			"NtClose"
+		]
+	},
+	{
+		"id": 2716,
+		"pid": 4532,
+		"name": "32\\SIHClient.exe",
+		"score": -0.039154410040449394,
+		"syscalls": [
+			"NtCreateSection",
+			"NtQueryInformationToken",
+			"NtDeviceIoControlFile",
+			"NtMapViewOfSection",
+			"NtClose"
+		]
+	},
+	{
+		"id": 3060,
+		"pid": 7728,
+		"name": "ftEdgeUpdate.exe",
+		"score": -0.0391353928982362,
+		"syscalls": [
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose",
+			"NtAlpcConnectPort"
+		]
+	},
+	{
+		"id": 3067,
+		"pid": 7728,
+		"name": "ftEdgeUpdate.exe",
+		"score": -0.05010624250707163,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 3116,
+		"pid": 7728,
+		"name": "ftEdgeUpdate.exe",
+		"score": -0.05010624250707163,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 3121,
+		"pid": 7728,
+		"name": "ftEdgeUpdate.exe",
+		"score": -0.05010624250707163,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 3170,
+		"pid": 7728,
+		"name": "ftEdgeUpdate.exe",
+		"score": -0.05010624250707163,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 3175,
+		"pid": 7728,
+		"name": "ftEdgeUpdate.exe",
+		"score": -0.05010624250707163,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 3782,
+		"pid": 4532,
+		"name": "32\\SIHClient.exe",
+		"score": -0.0391353928982362,
+		"syscalls": [
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose",
+			"NtAlpcConnectPort"
+		]
+	},
+	{
+		"id": 5064,
+		"pid": 7728,
+		"name": "ftEdgeUpdate.exe",
+		"score": -0.05010624250707163,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 5086,
+		"pid": 7728,
+		"name": "ftEdgeUpdate.exe",
+		"score": -0.05010624250707163,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 5273,
+		"pid": 7728,
+		"name": "ftEdgeUpdate.exe",
+		"score": -0.05010624250707163,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 5303,
+		"pid": 7728,
+		"name": "ftEdgeUpdate.exe",
+		"score": -0.05010624250707163,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 5477,
+		"pid": 7728,
+		"name": "ftEdgeUpdate.exe",
+		"score": -0.05010624250707163,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	},
+	{
+		"id": 5505,
+		"pid": 7728,
+		"name": "ftEdgeUpdate.exe",
+		"score": -0.05010624250707163,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcCreateSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtClose"
+		]
+	}
+]
