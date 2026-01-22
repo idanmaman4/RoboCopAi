@@ -7,7 +7,7 @@ from sklearn.preprocessing import StandardScaler
 import json
 from collections import defaultdict,deque
 
-DB_HOST = "10.26.142.31"
+DB_HOST = "10.236.72.32"
 DB_PORT = 3306
 DB_USER = "root"
 DB_PASSWORD = "root"
@@ -176,9 +176,9 @@ def fetch_events(where_clause: str , limit = None):
         handle_1_access_mode,
         handle_2_access_mode
     FROM {TABLE_NAME}
-    WHERE ({where_clause}) AND (process_name NOT LIKE "%parsec%") AND (process_name NOT LIKE "%conhost%") AND (process_name NOT LIKE '%svchost%') AND (process_name NOT LIKE "%dwm%") AND pid != 3220 AND pid != 864 AND pid != 3220 AND pid != 5864 AND pid != 844 AND pid != 1048 AND pid != 5244 AND pid != 704 AND pid != 2672 AND pid != 3032 AND pid != 5720 AND pid != 620 AND pid != 5244  AND pid != 3980 AND pid != 140 AND pid != 4132 AND pid != 696  AND pid != 376 
+    WHERE ({where_clause}) AND (process_name NOT LIKE "%parsec%")
     ORDER BY ts ASC, id ASC
-    {'LIMIT ' + str(limit)  if limit else ''}
+    {('LIMIT ' + str(limit))  if limit else ''}
     """
 
     cursor.execute(query)

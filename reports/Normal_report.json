@@ -1,640 +1,7392 @@
 [
-    {
-      "id": 213,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.07393800865284961,
-      "syscalls": [
-        "NtAlpcConnectPortEx",
-        "NtAlpcSendWaitReceivePort",
-        "NtAlpcDeleteSecurityContext",
-        "NtAlpcCreateSecurityContext",
-        "NtAlpcQueryInformation",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 264,
-      "pid": 7340,
-      "name": "ystem32\\upfc.exe",
-      "score": -0.057517823391231016,
-      "syscalls": [
-        "NtAlpcSendWaitReceivePort",
-        "NtAlpcConnectPort",
-        "NtAlpcDeleteSecurityContext",
-        "NtAlpcCreateSecurityContext",
-        "NtAlpcDisconnectPort",
-        "NtAlpcQueryInformation",
-        "NtClose",
-        "NtAlpcSetInformation"
-      ]
-    },
-    {
-      "id": 273,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.07393800865284961,
-      "syscalls": [
-        "NtAlpcConnectPortEx",
-        "NtAlpcSendWaitReceivePort",
-        "NtAlpcDeleteSecurityContext",
-        "NtAlpcCreateSecurityContext",
-        "NtAlpcQueryInformation",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 281,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.07393800865284961,
-      "syscalls": [
-        "NtAlpcConnectPortEx",
-        "NtAlpcSendWaitReceivePort",
-        "NtAlpcDeleteSecurityContext",
-        "NtAlpcCreateSecurityContext",
-        "NtAlpcQueryInformation",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 319,
-      "pid": 7340,
-      "name": "ystem32\\upfc.exe",
-      "score": -0.0022257365004713647,
-      "syscalls": [
-        "NtSetInformationJobObject",
-        "NtQueryKey",
-        "NtSetValueKey",
-        "NtCreateKey",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 340,
-      "pid": 7340,
-      "name": "ystem32\\upfc.exe",
-      "score": -0.0022257365004713647,
-      "syscalls": [
-        "NtSetInformationJobObject",
-        "NtQueryKey",
-        "NtSetValueKey",
-        "NtCreateKey",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 368,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.07393800865284961,
-      "syscalls": [
-        "NtAlpcConnectPortEx",
-        "NtAlpcSendWaitReceivePort",
-        "NtAlpcDeleteSecurityContext",
-        "NtAlpcCreateSecurityContext",
-        "NtAlpcQueryInformation",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 375,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.07393800865284961,
-      "syscalls": [
-        "NtAlpcConnectPortEx",
-        "NtAlpcSendWaitReceivePort",
-        "NtAlpcDeleteSecurityContext",
-        "NtAlpcCreateSecurityContext",
-        "NtAlpcQueryInformation",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 466,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.02756051954039418,
-      "syscalls": [
-        "NtOpenFile",
-        "NtCreateSection",
-        "NtQueryInformationToken",
-        "NtDeviceIoControlFile",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 502,
-      "pid": 2960,
-      "name": "\\BraveUpdate.exe",
-      "score": -0.013480367577828,
-      "syscalls": [
-        "NtSetInformationJobObject",
-        "NtQueryValueKey",
-        "NtQueryKey",
-        "NtSetValueKey",
-        "NtCreateKey",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 535,
-      "pid": 2960,
-      "name": "\\BraveUpdate.exe",
-      "score": -0.0022257365004713647,
-      "syscalls": [
-        "NtSetInformationJobObject",
-        "NtQueryKey",
-        "NtSetValueKey",
-        "NtCreateKey",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 575,
-      "pid": 2960,
-      "name": "\\BraveUpdate.exe",
-      "score": -0.0022257365004713647,
-      "syscalls": [
-        "NtSetInformationJobObject",
-        "NtQueryKey",
-        "NtSetValueKey",
-        "NtCreateKey",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 606,
-      "pid": 2960,
-      "name": "\\BraveUpdate.exe",
-      "score": -0.010884504621111013,
-      "syscalls": [
-        "NtCreateFile",
-        "NtReadFile",
-        "NtFsControlFile",
-        "NtClose",
-        "NtSetInformationFile"
-      ]
-    },
-    {
-      "id": 626,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.02756051954039418,
-      "syscalls": [
-        "NtOpenFile",
-        "NtCreateSection",
-        "NtQueryInformationToken",
-        "NtDeviceIoControlFile",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 634,
-      "pid": 2960,
-      "name": "\\BraveUpdate.exe",
-      "score": -0.010884504621111013,
-      "syscalls": [
-        "NtCreateFile",
-        "NtReadFile",
-        "NtFsControlFile",
-        "NtClose",
-        "NtSetInformationFile"
-      ]
-    },
-    {
-      "id": 645,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.017958120261054145,
-      "syscalls": [
-        "NtSetInformationJobObject",
-        "NtQueryInformationToken",
-        "NtDeviceIoControlFile",
-        "NtOpenKeyEx",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 911,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.07393800865284961,
-      "syscalls": [
-        "NtAlpcConnectPortEx",
-        "NtAlpcSendWaitReceivePort",
-        "NtAlpcDeleteSecurityContext",
-        "NtAlpcCreateSecurityContext",
-        "NtAlpcQueryInformation",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 943,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.042009375234881574,
-      "syscalls": [
-        "NtCreateSection",
-        "NtQueryInformationToken",
-        "NtDeviceIoControlFile",
-        "NtMapViewOfSection",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 2382,
-      "pid": 2960,
-      "name": "\\BraveUpdate.exe",
-      "score": -0.010884504621111013,
-      "syscalls": [
-        "NtCreateFile",
-        "NtReadFile",
-        "NtFsControlFile",
-        "NtClose",
-        "NtSetInformationFile"
-      ]
-    },
-    {
-      "id": 2487,
-      "pid": 2960,
-      "name": "\\BraveUpdate.exe",
-      "score": -0.07393800865284961,
-      "syscalls": [
-        "NtAlpcConnectPortEx",
-        "NtAlpcSendWaitReceivePort",
-        "NtAlpcDeleteSecurityContext",
-        "NtAlpcCreateSecurityContext",
-        "NtAlpcQueryInformation",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 2515,
-      "pid": 4532,
-      "name": "32\\SIHClient.exe",
-      "score": -0.042009375234881574,
-      "syscalls": [
-        "NtCreateSection",
-        "NtQueryInformationToken",
-        "NtDeviceIoControlFile",
-        "NtMapViewOfSection",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 2643,
-      "pid": 4532,
-      "name": "32\\SIHClient.exe",
-      "score": -0.07393800865284961,
-      "syscalls": [
-        "NtAlpcConnectPortEx",
-        "NtAlpcSendWaitReceivePort",
-        "NtAlpcDeleteSecurityContext",
-        "NtAlpcCreateSecurityContext",
-        "NtAlpcQueryInformation",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 2661,
-      "pid": 4532,
-      "name": "32\\SIHClient.exe",
-      "score": -0.024031624885278546,
-      "syscalls": [
-        "NtQueryValueKey",
-        "NtQueryInformationToken",
-        "NtDeviceIoControlFile",
-        "NtCreateKey",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 2716,
-      "pid": 4532,
-      "name": "32\\SIHClient.exe",
-      "score": -0.042009375234881574,
-      "syscalls": [
-        "NtCreateSection",
-        "NtQueryInformationToken",
-        "NtDeviceIoControlFile",
-        "NtMapViewOfSection",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 3004,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.013480367577828,
-      "syscalls": [
-        "NtSetInformationJobObject",
-        "NtQueryValueKey",
-        "NtQueryKey",
-        "NtSetValueKey",
-        "NtCreateKey",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 3060,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.0619691003320868,
-      "syscalls": [
-        "NtAlpcSendWaitReceivePort",
-        "NtAlpcDeleteSecurityContext",
-        "NtAlpcCreateSecurityContext",
-        "NtAlpcQueryInformation",
-        "NtClose",
-        "NtAlpcConnectPort"
-      ]
-    },
-    {
-      "id": 3067,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.07393800865284961,
-      "syscalls": [
-        "NtAlpcConnectPortEx",
-        "NtAlpcSendWaitReceivePort",
-        "NtAlpcDeleteSecurityContext",
-        "NtAlpcCreateSecurityContext",
-        "NtAlpcQueryInformation",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 3116,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.07393800865284961,
-      "syscalls": [
-        "NtAlpcConnectPortEx",
-        "NtAlpcSendWaitReceivePort",
-        "NtAlpcDeleteSecurityContext",
-        "NtAlpcCreateSecurityContext",
-        "NtAlpcQueryInformation",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 3121,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.07393800865284961,
-      "syscalls": [
-        "NtAlpcConnectPortEx",
-        "NtAlpcSendWaitReceivePort",
-        "NtAlpcDeleteSecurityContext",
-        "NtAlpcCreateSecurityContext",
-        "NtAlpcQueryInformation",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 3170,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.07393800865284961,
-      "syscalls": [
-        "NtAlpcConnectPortEx",
-        "NtAlpcSendWaitReceivePort",
-        "NtAlpcDeleteSecurityContext",
-        "NtAlpcCreateSecurityContext",
-        "NtAlpcQueryInformation",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 3175,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.07393800865284961,
-      "syscalls": [
-        "NtAlpcConnectPortEx",
-        "NtAlpcSendWaitReceivePort",
-        "NtAlpcDeleteSecurityContext",
-        "NtAlpcCreateSecurityContext",
-        "NtAlpcQueryInformation",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 3374,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.013480367577828,
-      "syscalls": [
-        "NtSetInformationJobObject",
-        "NtQueryValueKey",
-        "NtQueryKey",
-        "NtSetValueKey",
-        "NtCreateKey",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 3510,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.0022257365004713647,
-      "syscalls": [
-        "NtSetInformationJobObject",
-        "NtQueryKey",
-        "NtSetValueKey",
-        "NtCreateKey",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 3518,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.0022257365004713647,
-      "syscalls": [
-        "NtSetInformationJobObject",
-        "NtQueryKey",
-        "NtSetValueKey",
-        "NtCreateKey",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 3537,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.0022257365004713647,
-      "syscalls": [
-        "NtSetInformationJobObject",
-        "NtQueryKey",
-        "NtSetValueKey",
-        "NtCreateKey",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 3552,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.0022257365004713647,
-      "syscalls": [
-        "NtSetInformationJobObject",
-        "NtQueryKey",
-        "NtSetValueKey",
-        "NtCreateKey",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 3698,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.0022257365004713647,
-      "syscalls": [
-        "NtSetInformationJobObject",
-        "NtQueryKey",
-        "NtSetValueKey",
-        "NtCreateKey",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 3782,
-      "pid": 4532,
-      "name": "32\\SIHClient.exe",
-      "score": -0.0619691003320868,
-      "syscalls": [
-        "NtAlpcSendWaitReceivePort",
-        "NtAlpcDeleteSecurityContext",
-        "NtAlpcCreateSecurityContext",
-        "NtAlpcQueryInformation",
-        "NtClose",
-        "NtAlpcConnectPort"
-      ]
-    },
-    {
-      "id": 3867,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.0022257365004713647,
-      "syscalls": [
-        "NtSetInformationJobObject",
-        "NtQueryKey",
-        "NtSetValueKey",
-        "NtCreateKey",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 3868,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.0022257365004713647,
-      "syscalls": [
-        "NtSetInformationJobObject",
-        "NtQueryKey",
-        "NtSetValueKey",
-        "NtCreateKey",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 5064,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.07393800865284961,
-      "syscalls": [
-        "NtAlpcConnectPortEx",
-        "NtAlpcSendWaitReceivePort",
-        "NtAlpcDeleteSecurityContext",
-        "NtAlpcCreateSecurityContext",
-        "NtAlpcQueryInformation",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 5086,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.07393800865284961,
-      "syscalls": [
-        "NtAlpcConnectPortEx",
-        "NtAlpcSendWaitReceivePort",
-        "NtAlpcDeleteSecurityContext",
-        "NtAlpcCreateSecurityContext",
-        "NtAlpcQueryInformation",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 5273,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.07393800865284961,
-      "syscalls": [
-        "NtAlpcConnectPortEx",
-        "NtAlpcSendWaitReceivePort",
-        "NtAlpcDeleteSecurityContext",
-        "NtAlpcCreateSecurityContext",
-        "NtAlpcQueryInformation",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 5303,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.07393800865284961,
-      "syscalls": [
-        "NtAlpcConnectPortEx",
-        "NtAlpcSendWaitReceivePort",
-        "NtAlpcDeleteSecurityContext",
-        "NtAlpcCreateSecurityContext",
-        "NtAlpcQueryInformation",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 5477,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.07393800865284961,
-      "syscalls": [
-        "NtAlpcConnectPortEx",
-        "NtAlpcSendWaitReceivePort",
-        "NtAlpcDeleteSecurityContext",
-        "NtAlpcCreateSecurityContext",
-        "NtAlpcQueryInformation",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 5505,
-      "pid": 7728,
-      "name": "ftEdgeUpdate.exe",
-      "score": -0.07393800865284961,
-      "syscalls": [
-        "NtAlpcConnectPortEx",
-        "NtAlpcSendWaitReceivePort",
-        "NtAlpcDeleteSecurityContext",
-        "NtAlpcCreateSecurityContext",
-        "NtAlpcQueryInformation",
-        "NtClose"
-      ]
-    },
-    {
-      "id": 6477,
-      "pid": 4532,
-      "name": "32\\SIHClient.exe",
-      "score": -0.003007643384507319,
-      "syscalls": [
-        "NtCreateFile",
-        "NtReadFile",
-        "NtQueryInformationFile",
-        "NtClose",
-        "NtQueryVolumeInformationFile"
-      ]
-    }
-  ]
+	{
+		"id": 48,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 57,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 65,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 115,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 159,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 173,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 181,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 204,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 216,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 223,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 295,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 302,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 331,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 356,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 358,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 371,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 411,
+		"pid": 2820,
+		"name": "em32\\svchost.exe",
+		"score": -0.004726556396980608,
+		"syscalls": [
+			"NtClose",
+			"NtDeviceIoControlFile",
+			"NtSetInformationFile",
+			"NtCreateFile"
+		]
+	},
+	{
+		"id": 490,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 495,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 496,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 500,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 517,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 528,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 541,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 553,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 564,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 582,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 604,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 616,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 629,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 648,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 657,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 668,
+		"pid": 3980,
+		"name": "tem32\\sihost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 684,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 692,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 704,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 719,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 793,
+		"pid": 3980,
+		"name": "tem32\\sihost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 794,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 840,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 854,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 880,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 882,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 909,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1002,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1131,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1139,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1153,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1163,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1166,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1172,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1177,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1179,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1182,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1213,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1221,
+		"pid": 6924,
+		"name": "32\\taskhostw.exe",
+		"score": -0.034275389111614096,
+		"syscalls": [
+			"NtReadFile",
+			"NtClose",
+			"NtSetInformationFile",
+			"NtQueryInformationFile",
+			"NtCreateFile"
+		]
+	},
+	{
+		"id": 1234,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1242,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1254,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1255,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1262,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1299,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1454,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1618,
+		"pid": 6924,
+		"name": "32\\taskhostw.exe",
+		"score": -0.034275389111614096,
+		"syscalls": [
+			"NtReadFile",
+			"NtClose",
+			"NtSetInformationFile",
+			"NtQueryInformationFile",
+			"NtCreateFile"
+		]
+	},
+	{
+		"id": 1659,
+		"pid": 6924,
+		"name": "32\\taskhostw.exe",
+		"score": -0.034275389111614096,
+		"syscalls": [
+			"NtReadFile",
+			"NtClose",
+			"NtSetInformationFile",
+			"NtQueryInformationFile",
+			"NtCreateFile"
+		]
+	},
+	{
+		"id": 1681,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1706,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1754,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1764,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1777,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1799,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1824,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1840,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1876,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1906,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1914,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1915,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1953,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 1970,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 2185,
+		"pid": 6924,
+		"name": "32\\taskhostw.exe",
+		"score": -0.03564719618577544,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcCreateSecurityContext",
+			"NtClose",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtAlpcSendWaitReceivePort"
+		]
+	},
+	{
+		"id": 2188,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 2235,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 2292,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 2303,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 2309,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 2313,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 2334,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 2385,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 2395,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 2417,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 2420,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 2428,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 2431,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 2442,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 2453,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 2455,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 2468,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 2485,
+		"pid": 6924,
+		"name": "32\\taskhostw.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 2486,
+		"pid": 6924,
+		"name": "32\\taskhostw.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 2487,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 2488,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 2512,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 2522,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 2536,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 2572,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 2575,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 2604,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 2630,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 2710,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 2877,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 3028,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 3052,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 3065,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 3068,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.10417034267558323,
+		"syscalls": [
+			"NtOpenFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryInformationFile",
+			"NtDeviceIoControlFile",
+			"NtCreateFile"
+		]
+	},
+	{
+		"id": 3140,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.07201374404343408,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 3393,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 3482,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.07201374404343408,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 3531,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 3787,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.07770461443908028,
+		"syscalls": [
+			"NtTerminateThread",
+			"NtCreateEvent",
+			"NtDeviceIoControlFile",
+			"NtCreateFile"
+		]
+	},
+	{
+		"id": 3788,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.07201374404343408,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 3829,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 3905,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 3990,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 4021,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 4052,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 4118,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 4173,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.04867750750868105,
+		"syscalls": [
+			"NtCreateEvent",
+			"NtSetEvent",
+			"NtClose",
+			"NtQueryObject",
+			"NtClearEvent"
+		]
+	},
+	{
+		"id": 4344,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 4365,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 4394,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 4396,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 4401,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 4402,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 4408,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 4413,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 4418,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 4419,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 4425,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 4442,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 4471,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 4492,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 4660,
+		"pid": 2932,
+		"name": "em32\\svchost.exe",
+		"score": -0.05208663721160345,
+		"syscalls": [
+			"NtCreateEvent",
+			"NtClose",
+			"NtQueryInformationFile",
+			"NtDeviceIoControlFile",
+			"NtCreateFile"
+		]
+	},
+	{
+		"id": 4766,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 4776,
+		"pid": 2932,
+		"name": "em32\\svchost.exe",
+		"score": -0.05208663721160345,
+		"syscalls": [
+			"NtCreateEvent",
+			"NtClose",
+			"NtQueryInformationFile",
+			"NtDeviceIoControlFile",
+			"NtCreateFile"
+		]
+	},
+	{
+		"id": 4805,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 4827,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 4900,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 4933,
+		"pid": 4116,
+		"name": "em32\\svchost.exe",
+		"score": -0.05208663721160345,
+		"syscalls": [
+			"NtCreateEvent",
+			"NtClose",
+			"NtQueryInformationFile",
+			"NtDeviceIoControlFile",
+			"NtCreateFile"
+		]
+	},
+	{
+		"id": 4951,
+		"pid": 2932,
+		"name": "em32\\svchost.exe",
+		"score": -0.05208663721160345,
+		"syscalls": [
+			"NtCreateEvent",
+			"NtClose",
+			"NtQueryInformationFile",
+			"NtDeviceIoControlFile",
+			"NtCreateFile"
+		]
+	},
+	{
+		"id": 5018,
+		"pid": 4116,
+		"name": "em32\\svchost.exe",
+		"score": -0.05208663721160345,
+		"syscalls": [
+			"NtCreateEvent",
+			"NtClose",
+			"NtQueryInformationFile",
+			"NtDeviceIoControlFile",
+			"NtCreateFile"
+		]
+	},
+	{
+		"id": 5143,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 5149,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 5170,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 5199,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 5216,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 5224,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 5232,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 5234,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 5240,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 5263,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 5267,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 5280,
+		"pid": 4116,
+		"name": "em32\\svchost.exe",
+		"score": -0.05208663721160345,
+		"syscalls": [
+			"NtCreateEvent",
+			"NtClose",
+			"NtQueryInformationFile",
+			"NtDeviceIoControlFile",
+			"NtCreateFile"
+		]
+	},
+	{
+		"id": 5340,
+		"pid": 4116,
+		"name": "em32\\svchost.exe",
+		"score": -0.05208663721160345,
+		"syscalls": [
+			"NtCreateEvent",
+			"NtClose",
+			"NtQueryInformationFile",
+			"NtDeviceIoControlFile",
+			"NtCreateFile"
+		]
+	},
+	{
+		"id": 5446,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 5471,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 5492,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 5585,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 5727,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 5732,
+		"pid": 2932,
+		"name": "em32\\svchost.exe",
+		"score": -0.05208663721160345,
+		"syscalls": [
+			"NtCreateEvent",
+			"NtClose",
+			"NtQueryInformationFile",
+			"NtDeviceIoControlFile",
+			"NtCreateFile"
+		]
+	},
+	{
+		"id": 5741,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 5752,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 5758,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 5762,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 5767,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 5794,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.05110987508530973,
+		"syscalls": [
+			"NtCreateEvent",
+			"NtSetEvent",
+			"NtClose",
+			"NtQueryInformationFile",
+			"NtQueryDirectoryFileEx",
+			"NtCreateFile"
+		]
+	},
+	{
+		"id": 5826,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 5900,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 5955,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 6015,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 6032,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 6049,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.003993592836248394,
+		"syscalls": [
+			"NtCreateEvent",
+			"NtSetEvent",
+			"NtOpenKeyEx",
+			"NtClose",
+			"NtQueryValueKey"
+		]
+	},
+	{
+		"id": 6085,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.024034733932506935,
+		"syscalls": [
+			"NtAssociateWaitCompletionPacket",
+			"NtClose",
+			"NtCreateIoCompletion",
+			"NtAlpcSetInformation",
+			"NtCreateWorkerFactory"
+		]
+	},
+	{
+		"id": 6086,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.07877132676236281,
+		"syscalls": [
+			"NtOpenKeyEx",
+			"NtSetEvent",
+			"NtCreateEvent",
+			"NtClose",
+			"NtQueryObject",
+			"NtClearEvent"
+		]
+	},
+	{
+		"id": 6103,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.07877132676236281,
+		"syscalls": [
+			"NtOpenKeyEx",
+			"NtSetEvent",
+			"NtCreateEvent",
+			"NtClose",
+			"NtQueryObject",
+			"NtClearEvent"
+		]
+	},
+	{
+		"id": 6104,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 6162,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 6216,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 6498,
+		"pid": 4088,
+		"name": "em32\\svchost.exe",
+		"score": -0.045352452391487996,
+		"syscalls": [
+			"NtOpenKeyEx",
+			"NtSetEvent",
+			"NtCreateEvent",
+			"NtClose",
+			"NtClearEvent"
+		]
+	},
+	{
+		"id": 6537,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 6545,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 6555,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 6565,
+		"pid": 6924,
+		"name": "32\\taskhostw.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 6572,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 6588,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 6594,
+		"pid": 6924,
+		"name": "32\\taskhostw.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 6603,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 6618,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 6634,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 6640,
+		"pid": 6924,
+		"name": "32\\taskhostw.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 6648,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 6649,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 6655,
+		"pid": 6924,
+		"name": "32\\taskhostw.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 6683,
+		"pid": 6924,
+		"name": "32\\taskhostw.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 6714,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 6742,
+		"pid": 6924,
+		"name": "32\\taskhostw.exe",
+		"score": -0.02947287375270452,
+		"syscalls": [
+			"NtDeleteValueKey",
+			"NtClose",
+			"NtQueryValueKey",
+			"NtCreateKey",
+			"NtSetValueKey"
+		]
+	},
+	{
+		"id": 6757,
+		"pid": 6924,
+		"name": "32\\taskhostw.exe",
+		"score": -0.03564719618577544,
+		"syscalls": [
+			"NtAlpcConnectPortEx",
+			"NtAlpcCreateSecurityContext",
+			"NtClose",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcQueryInformation",
+			"NtAlpcSendWaitReceivePort"
+		]
+	},
+	{
+		"id": 6759,
+		"pid": 6924,
+		"name": "32\\taskhostw.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 6795,
+		"pid": 6924,
+		"name": "32\\taskhostw.exe",
+		"score": -0.034275389111614096,
+		"syscalls": [
+			"NtReadFile",
+			"NtClose",
+			"NtSetInformationFile",
+			"NtQueryInformationFile",
+			"NtCreateFile"
+		]
+	},
+	{
+		"id": 6833,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 6838,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 6839,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 6857,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 6881,
+		"pid": 6588,
+		"name": "em32\\svchost.exe",
+		"score": -0.029364907586131195,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtDuplicateToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 6948,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 6959,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 6968,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.003993592836248394,
+		"syscalls": [
+			"NtCreateEvent",
+			"NtSetEvent",
+			"NtOpenKeyEx",
+			"NtClose",
+			"NtQueryValueKey"
+		]
+	},
+	{
+		"id": 7028,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 7077,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.003993592836248394,
+		"syscalls": [
+			"NtOpenKeyEx",
+			"NtSetEvent",
+			"NtCreateEvent",
+			"NtClose",
+			"NtQueryValueKey"
+		]
+	},
+	{
+		"id": 7106,
+		"pid": 4088,
+		"name": "em32\\svchost.exe",
+		"score": -0.02793401298698911,
+		"syscalls": [
+			"NtClose",
+			"NtSetInformationFile",
+			"NtQueryInformationFile",
+			"NtQueryVolumeInformationFile",
+			"NtCreateFile"
+		]
+	},
+	{
+		"id": 7107,
+		"pid": 4088,
+		"name": "em32\\svchost.exe",
+		"score": -0.009858253864588162,
+		"syscalls": [
+			"NtCopyFileChunk",
+			"NtClose",
+			"NtQueryInformationFile",
+			"NtQueryVolumeInformationFile",
+			"NtCreateFile"
+		]
+	},
+	{
+		"id": 7156,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.003993592836248394,
+		"syscalls": [
+			"NtOpenKeyEx",
+			"NtSetEvent",
+			"NtCreateEvent",
+			"NtClose",
+			"NtQueryValueKey"
+		]
+	},
+	{
+		"id": 7243,
+		"pid": 6924,
+		"name": "32\\taskhostw.exe",
+		"score": -0.042514843006461356,
+		"syscalls": [
+			"NtAlpcCreateSecurityContext",
+			"NtClose",
+			"NtAlpcDisconnectPort",
+			"NtAlpcQueryInformationMessage",
+			"NtAlpcDeleteSecurityContext",
+			"NtAlpcSendWaitReceivePort",
+			"NtAlpcSetInformation",
+			"NtAlpcQueryInformation",
+			"NtAlpcConnectPort"
+		]
+	},
+	{
+		"id": 7272,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.003993592836248394,
+		"syscalls": [
+			"NtOpenKeyEx",
+			"NtSetEvent",
+			"NtCreateEvent",
+			"NtClose",
+			"NtQueryValueKey"
+		]
+	},
+	{
+		"id": 7421,
+		"pid": 6924,
+		"name": "32\\taskhostw.exe",
+		"score": -0.034275389111614096,
+		"syscalls": [
+			"NtReadFile",
+			"NtClose",
+			"NtSetInformationFile",
+			"NtQueryInformationFile",
+			"NtCreateFile"
+		]
+	},
+	{
+		"id": 7451,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 7453,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 7465,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 7467,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 7469,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 7474,
+		"pid": 6924,
+		"name": "32\\taskhostw.exe",
+		"score": -0.034275389111614096,
+		"syscalls": [
+			"NtReadFile",
+			"NtClose",
+			"NtSetInformationFile",
+			"NtQueryInformationFile",
+			"NtCreateFile"
+		]
+	},
+	{
+		"id": 7493,
+		"pid": 6588,
+		"name": "em32\\svchost.exe",
+		"score": -0.029364907586131195,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtDuplicateToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 7518,
+		"pid": 6588,
+		"name": "em32\\svchost.exe",
+		"score": -0.029364907586131195,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtDuplicateToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 7562,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 7688,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 7712,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 7759,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 7829,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 7832,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 7956,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 7999,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.10055085051473422,
+		"syscalls": [
+			"NtCreateEvent",
+			"NtSetEvent",
+			"NtOpenKeyEx",
+			"NtClose",
+			"NtEnumerateKey",
+			"NtQueryKey",
+			"NtSetInformationJobObject"
+		]
+	},
+	{
+		"id": 8254,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8276,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8282,
+		"pid": 3980,
+		"name": "tem32\\sihost.exe",
+		"score": -0.03551942266318797,
+		"syscalls": [
+			"NtOpenKeyEx",
+			"NtClose",
+			"NtEnumerateKey",
+			"NtQueryKey",
+			"NtSetInformationJobObject"
+		]
+	},
+	{
+		"id": 8325,
+		"pid": 6588,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 8337,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8379,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8411,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8416,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8430,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8436,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8442,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8445,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8452,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8455,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8474,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8479,
+		"pid": 6588,
+		"name": "em32\\svchost.exe",
+		"score": -0.029364907586131195,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtDuplicateToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8493,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8553,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8565,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8575,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8586,
+		"pid": 6588,
+		"name": "em32\\svchost.exe",
+		"score": -0.029364907586131195,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtDuplicateToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8598,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8641,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8643,
+		"pid": 6924,
+		"name": "32\\taskhostw.exe",
+		"score": -0.11667725693246334,
+		"syscalls": [
+			"NtClose",
+			"NtDeviceIoControlFile",
+			"NtMapViewOfSection",
+			"NtQueryInformationToken",
+			"NtCreateSection"
+		]
+	},
+	{
+		"id": 8656,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8669,
+		"pid": 6588,
+		"name": "em32\\svchost.exe",
+		"score": -0.029364907586131195,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtDuplicateToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8701,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8784,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8840,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05144945025784614,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8875,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8943,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 8953,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9054,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9068,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.003993592836248394,
+		"syscalls": [
+			"NtCreateEvent",
+			"NtSetEvent",
+			"NtOpenKeyEx",
+			"NtClose",
+			"NtQueryValueKey"
+		]
+	},
+	{
+		"id": 9121,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9195,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9309,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9323,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9326,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9342,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9356,
+		"pid": 6588,
+		"name": "em32\\svchost.exe",
+		"score": -0.029364907586131195,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtDuplicateToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9358,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9383,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9400,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9447,
+		"pid": 6588,
+		"name": "em32\\svchost.exe",
+		"score": -0.029364907586131195,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtDuplicateToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9495,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9503,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9504,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9533,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9555,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9578,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 9584,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 9588,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 9597,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.02246074197322262,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9603,
+		"pid": 6588,
+		"name": "em32\\svchost.exe",
+		"score": -0.029364907586131195,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtDuplicateToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9644,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9646,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9650,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9661,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9662,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9675,
+		"pid": 6588,
+		"name": "em32\\svchost.exe",
+		"score": -0.029364907586131195,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtDuplicateToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9678,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 9686,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 9733,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9742,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9831,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.07201374404343408,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9833,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9841,
+		"pid": 6588,
+		"name": "em32\\svchost.exe",
+		"score": -0.029364907586131195,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtDuplicateToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9855,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9873,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9889,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9921,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9932,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9939,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9948,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9960,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9981,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9982,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 9994,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 10014,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 10042,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 10069,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.003993592836248394,
+		"syscalls": [
+			"NtCreateEvent",
+			"NtSetEvent",
+			"NtOpenKeyEx",
+			"NtClose",
+			"NtQueryValueKey"
+		]
+	},
+	{
+		"id": 10073,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.07291511061497802,
+		"syscalls": [
+			"NtOpenKeyEx",
+			"NtSetEvent",
+			"NtCreateEvent",
+			"NtClose",
+			"NtQueryKey",
+			"NtSetInformationJobObject"
+		]
+	},
+	{
+		"id": 10084,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.003993592836248394,
+		"syscalls": [
+			"NtCreateEvent",
+			"NtSetEvent",
+			"NtOpenKeyEx",
+			"NtClose",
+			"NtQueryValueKey"
+		]
+	},
+	{
+		"id": 10152,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.003993592836248394,
+		"syscalls": [
+			"NtCreateEvent",
+			"NtSetEvent",
+			"NtOpenKeyEx",
+			"NtClose",
+			"NtQueryValueKey"
+		]
+	},
+	{
+		"id": 10156,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 10181,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.07201374404343408,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 10205,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.007013289763394992,
+		"syscalls": [
+			"NtOpenKeyEx",
+			"NtSetEvent",
+			"NtCreateEvent",
+			"NtClose",
+			"NtQueryKey"
+		]
+	},
+	{
+		"id": 10250,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.003993592836248394,
+		"syscalls": [
+			"NtCreateEvent",
+			"NtSetEvent",
+			"NtOpenKeyEx",
+			"NtClose",
+			"NtQueryValueKey"
+		]
+	},
+	{
+		"id": 10279,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 10282,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 10316,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 10325,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.003993592836248394,
+		"syscalls": [
+			"NtCreateEvent",
+			"NtSetEvent",
+			"NtOpenKeyEx",
+			"NtClose",
+			"NtQueryValueKey"
+		]
+	},
+	{
+		"id": 10353,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 10357,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 10386,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.003993592836248394,
+		"syscalls": [
+			"NtCreateEvent",
+			"NtSetEvent",
+			"NtOpenKeyEx",
+			"NtClose",
+			"NtQueryValueKey"
+		]
+	},
+	{
+		"id": 10429,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.047380537219543495,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtDuplicateToken",
+			"NtQueryInformationToken",
+			"NtAdjustPrivilegesToken"
+		]
+	},
+	{
+		"id": 10548,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 10609,
+		"pid": 5244,
+		"name": "ows\\explorer.exe",
+		"score": -0.045851340275608776,
+		"syscalls": [
+			"NtCreateEvent",
+			"NtSetEvent",
+			"NtClose",
+			"NtOpenProcessTokenEx",
+			"NtDuplicateToken"
+		]
+	},
+	{
+		"id": 10632,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 10690,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05144945025784614,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 10705,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 10706,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 10717,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 10737,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 10787,
+		"pid": 3980,
+		"name": "tem32\\sihost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 10871,
+		"pid": 7208,
+		"name": "untimeBroker.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 11020,
+		"pid": 7208,
+		"name": "untimeBroker.exe",
+		"score": -0.047797599106427446,
+		"syscalls": [
+			"NtOpenKeyEx",
+			"NtCancelWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtClose",
+			"NtCreateWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 11036,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11194,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11208,
+		"pid": 1860,
+		"name": "em32\\svchost.exe",
+		"score": -0.023067404019742,
+		"syscalls": [
+			"NtPrivilegeCheck",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtAccessCheckByType",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11227,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11264,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11269,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11270,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11276,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11278,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11297,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11304,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11312,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11322,
+		"pid": 3980,
+		"name": "tem32\\sihost.exe",
+		"score": -0.047797599106427446,
+		"syscalls": [
+			"NtOpenKeyEx",
+			"NtCancelWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtClose",
+			"NtCreateWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 11326,
+		"pid": 3980,
+		"name": "tem32\\sihost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 11333,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11340,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11352,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11353,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11354,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11364,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05144945025784614,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11384,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11385,
+		"pid": 7208,
+		"name": "untimeBroker.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 11392,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11410,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11456,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.0027277981564612364,
+		"syscalls": [
+			"NtOpenThreadTokenEx",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtClose"
+		]
+	},
+	{
+		"id": 11539,
+		"pid": 5424,
+		"name": "ation\\msedge.exe",
+		"score": -0.06603508813555509,
+		"syscalls": [
+			"NtReadFile",
+			"NtSetInformationFile",
+			"NtClose",
+			"NtQueryInformationFile",
+			"NtQueryVolumeInformationFile",
+			"NtCreateFile"
+		]
+	},
+	{
+		"id": 11635,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11912,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11913,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11914,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11915,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11916,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11918,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11919,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 11920,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 12065,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.06650065570107377,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtDuplicateToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 12066,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 12173,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 12176,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 12251,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.0027277981564612364,
+		"syscalls": [
+			"NtOpenThreadTokenEx",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtClose"
+		]
+	},
+	{
+		"id": 12306,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 12307,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 12312,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 12320,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 12327,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 12332,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 12333,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 12334,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 12483,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 12556,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.10622263156380152,
+		"syscalls": [
+			"NtCreateEvent",
+			"NtSetInformationThread",
+			"NtClose",
+			"NtDuplicateToken",
+			"NtQueryInformationToken",
+			"NtAdjustPrivilegesToken"
+		]
+	},
+	{
+		"id": 12580,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 12582,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 12670,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 12671,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 12672,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 12673,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 12674,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 12676,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 12677,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 12678,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 12813,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 12876,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 13083,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 13085,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 13151,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 13155,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 13157,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 13162,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 13163,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 13172,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 13175,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 13181,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 13463,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 13693,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 13695,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 13696,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 13704,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 13708,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 13714,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 13715,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 13717,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 13718,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 13719,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 13968,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 14202,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 14206,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 14207,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 14220,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 14228,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 14233,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 14238,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 14240,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 14263,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 14265,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 14555,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 14821,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 14822,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 14823,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 14830,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 14837,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 14839,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 14842,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 14846,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 14958,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 14971,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 14973,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 15217,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 15384,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 15386,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 15390,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 15404,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 15416,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 15421,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 15424,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 15427,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 15554,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 15556,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 15734,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 15865,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 15866,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 15867,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 15868,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 15869,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 15877,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 15883,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 15885,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 16109,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 16111,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 16362,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 16538,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 16541,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 16548,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 16552,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 16556,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 16558,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 16559,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 16560,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 16722,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 16724,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 16914,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 16953,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 17013,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 17028,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 17071,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 17074,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 17077,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 17095,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 17105,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 17114,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 17118,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 17125,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 17359,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 17361,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 17516,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 17536,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 17539,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 17542,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 17549,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 17562,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 17567,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 17572,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 17578,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 18058,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 18060,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 18090,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 18091,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 18092,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 18095,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 18097,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.013068725838612683,
+		"syscalls": [
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 18103,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 18119,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 18123,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 18137,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 18320,
+		"pid": 1048,
+		"name": "em32\\svchost.exe",
+		"score": -0.05347294207200792,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheckByType",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 18415,
+		"pid": 2904,
+		"name": "em32\\svchost.exe",
+		"score": -0.020437250159060838,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 18585,
+		"pid": 2904,
+		"name": "em32\\svchost.exe",
+		"score": -0.020437250159060838,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 18672,
+		"pid": 2904,
+		"name": "em32\\svchost.exe",
+		"score": -0.020437250159060838,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 18753,
+		"pid": 2904,
+		"name": "em32\\svchost.exe",
+		"score": -0.020437250159060838,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 18824,
+		"pid": 2904,
+		"name": "em32\\svchost.exe",
+		"score": -0.020437250159060838,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 18905,
+		"pid": 2904,
+		"name": "em32\\svchost.exe",
+		"score": -0.020437250159060838,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 19005,
+		"pid": 2904,
+		"name": "em32\\svchost.exe",
+		"score": -0.020437250159060838,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 19071,
+		"pid": 2904,
+		"name": "em32\\svchost.exe",
+		"score": -0.020437250159060838,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 19343,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 19347,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.00023029353050330048,
+		"syscalls": [
+			"NtClose",
+			"NtCreateWaitCompletionPacket",
+			"NtAssociateWaitCompletionPacket",
+			"NtCancelWaitCompletionPacket"
+		]
+	},
+	{
+		"id": 19370,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 19372,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 19373,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 19374,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 19375,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 19377,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 19378,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 19379,
+		"pid": 2672,
+		"name": "em32\\svchost.exe",
+		"score": -0.025071597393904077,
+		"syscalls": [
+			"NtSetInformationThread",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	},
+	{
+		"id": 19423,
+		"pid": 3220,
+		"name": "em32\\svchost.exe",
+		"score": -0.043037278506105336,
+		"syscalls": [
+			"NtCreateEvent",
+			"NtClose",
+			"NtOpenThreadTokenEx",
+			"NtAccessCheck",
+			"NtQuerySecurityAttributesToken",
+			"NtQueryInformationToken"
+		]
+	}
+]
