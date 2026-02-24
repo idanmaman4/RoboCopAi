@@ -1,9 +1,61 @@
  
-# WINODWS AI-IDS
+# RoboCopAi – Windows AI-IDS
 
-A novel technique to monitor syscalls and handle usage using xen hypervsior(sealthy) and post-processing the results for malware detection using Isolation forest and OCSVM.
+**AI-powered Intrusion Detection System (IDS) for Windows**  
+Syscall-level anomaly detection using Xen Hypervisor (Stealthy/DRAKVUF) + Isolation Forest & One-Class SVM
 
+RoboCopAi is a research-grade prototype that monitors Windows system calls in a stealthy way and uses machine learning to detect malicious behavior — including advanced evasion techniques used by ransomware (LockBit), rootkits (Nidhogg), and self-deleting DLL loaders.
 
+It combines low-level virtualization-based introspection with post-processing anomaly detection to assign **suspicion scores** (more negative = more malicious).
+
+## Core Features
+
+- Stealthy syscall tracing via **Xen Hypervisor** (Stealthy) and **DRAKVUF**
+- Sequence-based anomaly detection using **Isolation Forest** + **One-Class SVM (OCSVM)**
+- Strong detection of red-team / malware evasion tactics:
+  - In-memory CLR assembly loading
+  - Transactional NTFS (TxF) abuse for unhooking
+  - WMI mass-delete loops
+  - Driver IOCTL communication (e.g., Nidhogg rootkit)
+  - LUID + DeviceIoControlFile patterns
+- JSON report generation with per-pattern suspicion scores
+
+## How It Works
+
+1. **Capture**: Syscalls are traced from real processes (malware samples, normal apps) using DRAKVUF on Xen.
+2. **Parse & Feature Extraction**: `drakvuf_parser.py` processes logs → one-hot encoding / frequency features.
+3. **Model Training & Scoring**:
+   - Isolation Forest & OCSVM trained on benign behavior
+   - Inference assigns anomaly scores to sequences
+4. **Analysis**: Suspicious patterns are correlated with source code locations (when available) or known malware behaviors.
+
+## Detection Highlights
+
+### Self-deleting DLL Loader (`eteDllLoader.exe`)
+- **Model rating**: 8.5–9/10
+- Strongest signals: LUID + IOCTL, TxF + section mapping, WMI loops (3000× deletes)
+- Excellent repetition handling and low false positives on normal ops
+
+### LockBit Ransomware (`lockbit.exe`)
+- **Model rating**: 8–8.5/10
+- Key detections: TxF thaw repetition (EDR unhooking), DeviceIoControlFile abuse, section mapping for clean library remapping
+
+### Nidhogg Rootkit Client (`NidhoggClient.exe`)
+- High suspicion on `NtAllocateLocallyUniqueId → NtDeviceIoControlFile` sequence
+- Directly maps to driver communication (`\\.\Nidhogg`)
+
+## Project Structure
+
+```text
+├── drakvuf_code.cpp           # (likely) DRAKVUF plugin / custom code
+├── drakvuf_parser.py          # Syscall log parser
+├── robocop.py                 # Main analysis / scoring logic
+├── syscall_onehot*.ipynb      # Jupyter notebooks for feature engineering & modeling
+├── virus_test.ipynb           # Test / evaluation notebook
+├── json_syscalls.json         # Syscall reference data
+├── windows_22h2_weights.json  # Model weights / parameters
+├── reports/                   # Output reports
+└── *.json                     # Example analysis outputs (DllLoader_report_all.json, Virus_report.json)
 ### Syscall Patterns Mapped to Source Code Locations
 
 This table maps the syscall sets observed in the ML logs to the most likely locations in the provided C++ source code of `eteDllLoader.exe`.  
