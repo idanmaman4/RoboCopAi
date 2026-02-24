@@ -1,6 +1,8 @@
-# Results from Grok compare against source code of the malware 
+ 
 # WINODWS AI-IDS
-# as we can see the ML is not perfect but pretty nice!
+
+A novel technique to monitor syscalls and handle usage using xen hypervsior(sealthy) and post-processing the results for malware detection using Isolation forest and OCSVM.
+
 
 ### Syscall Patterns Mapped to Source Code Locations
 
