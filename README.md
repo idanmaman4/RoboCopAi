@@ -55,7 +55,10 @@ It combines low-level virtualization-based introspection with post-processing an
 ├── json_syscalls.json         # Syscall reference data
 ├── windows_22h2_weights.json  # Model weights / parameters
 ├── reports/                   # Output reports
-└── *.json                     # Example analysis outputs (DllLoader_report_all.json, Virus_report.json)```
+└── *.json                     # Example analysis outputs (DllLoader_report_all.json, Virus_report.json)
+```
+
+
 ### Syscall Patterns Mapped to
  Source Code Locations
 
